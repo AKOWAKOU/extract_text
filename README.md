@@ -11,3 +11,6 @@ pip install -r requirements.txt*
 
 ## si openai ne s'installe pas dans env installer les packets sur votre system
 pip install -r requirements.txt
+
+## Demarer le setup
+python main.py
